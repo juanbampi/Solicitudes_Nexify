@@ -31,6 +31,13 @@ Cantidad por prioridad: gráfico de barras horizontales según tipo de prioridad
 
 ## 🌄 Capturas del dashboard
 
+<p align="center">
+  <img src="images/captura1.png" width="700"/>
+  <br/>
+  <img src="images/captura2.png" width="700"/>
+</p>
+
+---
 
 ## 💡 Motivación y aprendizajes
 Este dashboard me permitió profundizar el uso de gráficos combinados y cálculos comparativos con inteligencia de tiempo. Además, incorporé prácticas de diseño orientadas a mejorar la experiencia de análisis para usuarios del área operativa y gerencial.
