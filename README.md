@@ -32,9 +32,9 @@ Cantidad por prioridad: gráfico de barras horizontales según tipo de prioridad
 ## 🌄 Capturas del dashboard
 
 <p align="center">
-  <img src="images/captura1.png" width="700"/>
+  <img src="images/Captura1.png" width="700"/>
   <br/>
-  <img src="images/captura2.png" width="700"/>
+  <img src="images/Captura2.png" width="700"/>
 </p>
 
 ---
